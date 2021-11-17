@@ -7,11 +7,25 @@ app = Flask(__name__)
 
 
 joke_db = [
-    "What the ocean say to other ocean? They just waved",
-    "Wanna hear a construction joke? I'm err building it",
-    "Two bytes meet,the first byte asks are you ill? He said na I'm feeling off, my wife left me and my son decided to get with l3 cache",
-    "Programming is like sex. One mistake and you have to support it for the rest of your life.",
-    "Why did the programmer quit his job? Cos he didn't get a raise!" ]
+    "Why did the orange lose the race? It ran out of juice.",
+    "How you fix a broken pumpkin? With a pumpkin patch.",
+    "Why are fish so smart? They live in schools!",
+    "What's the best thing about Switzerland? I don't know, but the flag is a big plus.",
+    "Why did the man fall down the well? Because he couldn’t see that well!",
+    "What did the sink tell the toilet? You look flushed!",
+    " Where do boats go when they're sick? To the dock.",
+    "What has ears but cannot hear? A cornfield!",
+    "Stop looking for the perfect match; use a lighter.",
+    "Can February March? No, but April May!",
+    "Why was 6 afraid of 7? Because 7 ate nine!",
+    "I'm so good at sleeping that I do it with my eyes closed.",
+    "Try the seafood diet—you see food, then you eat it.",
+    "What do you call a pencil with two erasers? Pointless.",
+    "Did you hear the one about the roof? Never mind, it's over your head.",
+    "What's brown and sticky? A stick.",
+    "I hated facial hair but then it grew on me.",
+    "It really takes guts to be an organ donor."]
+
 
     
 
